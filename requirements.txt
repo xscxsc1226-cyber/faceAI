@@ -1,0 +1,12 @@
+streamlit>=1.32,<2.0
+streamlit-webrtc>=0.63.0
+requests>=2.31.0
+numpy>=1.26.0
+streamlit-autorefresh>=1.0.1
+pypdf>=4.2.0
+reportlab>=4.2.2
+python-dotenv>=1.0.1
+pytest>=8.2.0
+supabase>=2.6.0
+cryptography>=43.0.0
+faster-whisper>=1.0.3
